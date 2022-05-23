@@ -1,0 +1,18 @@
+{
+    "name": "W3xa-RU",
+    "description": "Dyepkloku.",
+    "keywords": ["W3xa-RU rq."],
+    "env": {
+        "ID": {
+            "description": "UUID",
+            "value": "uuid"
+        },
+        "WSPATH": {
+            "description": "WebSocket Path",
+            "value": "/uuid-vless"
+        }
+    },
+    "website": "https://ibcl.us/Heroku-V2Ray_20191014/",
+    "repository": "https://github.com/bclswl0827/v2ray-heroku/tree/vless",
+    "stack": "container"
+}
